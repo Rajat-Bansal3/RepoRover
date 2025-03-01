@@ -31,29 +31,22 @@ Installation
 To get started with RepoRover, follow these steps:
 
 1.  **Clone the Repository**:
-    
-    bash
-    
-    Copy
-    
+    ```bash
     git clone https://github.com/your-username/RepoRover.git
-    
+    ```
+
 2.  **Install Dependencies**:
     
-    bash
-    
-    Copy
-    
+    ```bash
     cd RepoRover
     npm install
+    ```
     
 3.  **Run the Application**:
     
-    bash
-    
-    Copy
-    
+    ```bash
     npm start
+    ```
     
 4.  **Access RepoRover**:  
     Open your browser and navigate to `http://localhost:3000` (or the specified port).
@@ -70,28 +63,21 @@ RepoRover provides a simple CLI to interact with GitHub. Here are some example c
 
 *   **Create a New Repository**:
     
-    bash
-    
-    Copy
-    
-     reporover create-repo <repo-name\>
+    ``` bash
+    reporover create-repo <repo-name\>
+    ```
     
 *   **Clone a Repository**:
     
-    bash
-    
-    Copy
-    
-     reporover clone <repo-url\>
+    ```bash
+    reporover clone <repo-url\>
+    ```
     
 *   **Check Repository Status**:
     
-    bash
-    
-    Copy
-    
-     reporover status
-    
+    ```npm
+    reporover status
+    ```
 
 ### VS Code Extension (Coming Soon)
 
