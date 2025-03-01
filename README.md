@@ -32,7 +32,7 @@ To get started with RepoRover, follow these steps:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/RepoRover.git
+    git clone https://github.com/Rajat-Bansal3/RepoRover.git
     ```
 
 2.  **Install Dependencies**:
